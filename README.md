@@ -1,6 +1,5 @@
-# Senior Product Analytics — Synthetic Dataset
 
-This repo contains a **synthetic freemium SaaS dataset** for senior-level product analytics portfolio work.
+This repo contains a **synthetic freemium SaaS dataset** 
 
 ## Tables
 - **users.csv** — user_id, signup_ts, country, platform, persona_segment
